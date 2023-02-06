@@ -12,9 +12,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DwitTech.PaymentService.Data.Context
 {
-    public class DefaultDbContext : DbContext
+    public class PaymentDbContext : DbContext
     {
-        public DefaultDbContext(DbContextOptions options) : base(options)
+        public PaymentDbContext(DbContextOptions options) : base(options)
         {
         }
 
