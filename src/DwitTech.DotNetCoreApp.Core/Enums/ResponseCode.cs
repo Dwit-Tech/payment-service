@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DwitTech.DotNetCoreApp.Core.Enums
+namespace DwitTech.PaymentService.Core.Enums
 {
     public enum ResponseCode
     {

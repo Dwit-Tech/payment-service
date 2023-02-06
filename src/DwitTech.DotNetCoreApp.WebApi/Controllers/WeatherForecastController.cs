@@ -1,7 +1,7 @@
-using DwitTech.DotNetCoreApp.Core.Dtos;
+using DwitTech.PaymentService.Core.Dtos;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DwitTech.DotNetCoreApp.WebApi.Controllers
+namespace DwitTech.PaymentService.WebApi.Controllers
 {
     public class WeatherForecastController : BaseController
     {

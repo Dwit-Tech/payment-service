@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DwitTech.DotNetCoreApp.Core.Exceptions
+namespace DwitTech.PaymentService.Core.Exceptions
 {
     internal abstract class BaseException
     {
